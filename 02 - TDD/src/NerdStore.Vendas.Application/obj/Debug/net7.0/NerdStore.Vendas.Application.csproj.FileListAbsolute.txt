@@ -1,0 +1,17 @@
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.deps.json
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Core.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Domain.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Core.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Domain.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.AssemblyInfo.cs
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.CopyComplete
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\refint\NerdStore.Vendas.Application.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\ref\NerdStore.Vendas.Application.dll

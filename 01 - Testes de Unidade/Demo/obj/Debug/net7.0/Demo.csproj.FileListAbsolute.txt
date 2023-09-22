@@ -1,0 +1,12 @@
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\bin\Debug\net7.0\Demo.deps.json
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\bin\Debug\net7.0\Demo.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\bin\Debug\net7.0\Demo.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\refint\Demo.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\Demo.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Demo\obj\Debug\net7.0\ref\Demo.dll

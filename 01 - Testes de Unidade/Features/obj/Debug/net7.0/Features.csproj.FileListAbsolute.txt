@@ -1,0 +1,12 @@
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.deps.json
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.csproj.AssemblyReference.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.AssemblyInfoInputs.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.AssemblyInfo.cs
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.csproj.CoreCompileInputs.cache
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\refint\Features.dll
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.pdb
+D:\Git_Repositorios\DesenvolvedorIo_Dominando-os-Testes-de-Software\01 - Testes de Unidade\Features\obj\Debug\net7.0\ref\Features.dll

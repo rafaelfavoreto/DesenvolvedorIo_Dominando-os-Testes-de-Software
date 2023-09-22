@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "80hSyy3gRIbna7BCqY6ddIe7xX4vEJpKoMhWFJh1eLGmR76U5m0xDqWi4B5AoZ1QAlOr6kGOMeI3YY0EjVMS2g==",
+  "success": true,
+  "projectFilePath": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

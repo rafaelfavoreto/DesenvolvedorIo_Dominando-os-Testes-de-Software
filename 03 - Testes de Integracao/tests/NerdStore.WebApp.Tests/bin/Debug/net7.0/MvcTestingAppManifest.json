@@ -1,0 +1,12 @@
+{
+  "Features, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\01 - Testes de Unidade\\Features",
+  "Features.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\01 - Testes de Unidade\\Features.Tests",
+  "NerdStore.Catalogo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application",
+  "NerdStore.Catalogo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data",
+  "NerdStore.Catalogo.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain",
+  "NerdStore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\02 - TDD\\src\\NerdStore.Core",
+  "NerdStore.Vendas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\02 - TDD\\src\\NerdStore.Vendas.Application",
+  "NerdStore.Vendas.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\02 - TDD\\src\\NerdStore.Vendas.Data",
+  "NerdStore.Vendas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\02 - TDD\\src\\NerdStore.Vendas.Domain",
+  "NerdStore.WebApp.MVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC"
+}

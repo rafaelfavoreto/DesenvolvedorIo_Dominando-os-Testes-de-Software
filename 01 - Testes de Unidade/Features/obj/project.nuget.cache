@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zY514W8iLN3OdFB7R1ta1To9gNjFsYnQ5xhaXiH/eeT4ynXZKo6Ly0ADXgxlixR6lMhPYfsPGp0BZ3LndT9t6w==",
+  "success": true,
+  "projectFilePath": "D:\\Git_Repositorios\\DesenvolvedorIo_Dominando-os-Testes-de-Software\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
